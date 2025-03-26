@@ -4,7 +4,8 @@ We use Data Analytics in everyday life without even knowing it.
 For eg : Going to a market to buy something .
 
 
-## Plan : We first decide which things I need before going to market . Is it a shirt , jeans , footwear etc.
+## Plan   
+We first decide which things I need before going to market . Is it a shirt , jeans , footwear etc.
 
 ## Prepare  
 Next I need to check how much I am willing to spend and how to get that money.
@@ -20,6 +21,9 @@ Now you communicate your idea to the shopkeeper to find the best suitable fit fo
 
 ## Act  
 Then you finally buy it!  
+
+
+
 
 ## Task:  
 Your task is to give the example(s) of such a real-life situation where we use Data Analytics and link it with the data analytics process. 
