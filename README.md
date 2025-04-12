@@ -1,6 +1,6 @@
 # Data Analytics Process – Real-Life Application
 
-This repository contains a creative and relatable explanation of the **Data Analytics Process** using a real-life example: a simple shopping experience. The objective of this assignment is to understand the core stages of data analytics through everyday decision-making and illustrate how we unconsciously apply these steps in our routine.
+This repository contains a creative and relatable explanation of the **Data Analytics Process** using real-life examples. The objective of this assignment is to understand the core stages of data analytics through everyday decision-making and illustrate how we unconsciously apply these steps in our routine.
 
 ---
 
