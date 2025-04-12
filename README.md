@@ -59,16 +59,14 @@ Examples:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project emphasizes how the principles of data analytics are deeply embedded in everyday life. By relating abstract analytical processes to common tasks, we gain a stronger foundational understanding of how to plan, analyze, and act on data. Recognizing this connection also helps develop critical thinking and decision-making skills applicable to both personal and professional contexts.
 
 ---
 
 
----
-
-## 🧠 Skills Practiced
+##  Skills Practiced
 
 - Conceptual understanding of data analytics  
 - Application of analytical thinking to real-world problems  
